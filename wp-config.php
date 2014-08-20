@@ -14,18 +14,22 @@
  * @package WordPress
  */
 
+$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define("DB_NAME", trim($url["path"], "/"));
 
 /** MySQL database username */
-define('DB_USER', 'username_here');
+define("DB_USER", trim($url["user"]));
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define("DB_PASSWORD", trim($url["pass"]));
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define("DB_HOST", trim($url["host"]));
+
+define("WP_SITEURL", "http://" . $_SERVER["HTTP_HOST"]);
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
