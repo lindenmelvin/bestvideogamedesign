@@ -15,6 +15,9 @@
 	     style="display:block;width:300px;height:600px;margin:10px auto;"
 	     data-ad-client="ca-pub-1727917029633384"
 	     data-ad-slot="9450436551"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
 	<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 		<div id="secondary" class="widget-area" role="complementary">
 			<?php dynamic_sidebar( 'sidebar-1' ); ?>
