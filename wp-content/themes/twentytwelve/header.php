@@ -40,8 +40,8 @@
 		</hgroup>
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<!-- First Ad Unit -->
-		<ins style="float:right" class="adsbygoogle"
-		    style="display:inline-block;width:728px;height:90px"
+		<ins class="adsbygoogle"
+		    style="display:inline-block;width:728px;height:90px;float:right;"
 		    data-ad-client="ca-pub-1727917029633384"
 		    data-ad-slot="1053185751"></ins>
 		<script>
