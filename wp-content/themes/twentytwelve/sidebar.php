@@ -12,7 +12,7 @@
 
 	<!-- Side Nav -->
 	<ins class="adsbygoogle"
-	     style="display:inline-block;width:300px;height:600px;margin:10px;"
+	     style="display:inline-block;width:300px;height:600px;position:relative;right:-35px;"
 	     data-ad-client="ca-pub-1727917029633384"
 	     data-ad-slot="9450436551"></ins>
 	<script>
