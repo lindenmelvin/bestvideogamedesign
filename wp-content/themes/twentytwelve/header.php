@@ -38,16 +38,16 @@
 			<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</hgroup>
+
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- First Ad Unit -->
+		<!-- Main Nav -->
 		<ins class="adsbygoogle"
-		     style="display:block;width:728px;height:90px;margin:20px auto;"
+		     style="display:inline-block;width:728px;height:90px"
 		     data-ad-client="ca-pub-9914565001386816"
 		     data-ad-slot="1227797683"></ins>
 		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
-
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <!-- Main Nav -->
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
