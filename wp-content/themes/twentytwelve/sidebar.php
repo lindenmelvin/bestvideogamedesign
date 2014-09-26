@@ -9,16 +9,6 @@
  * @since Twenty Twelve 1.0
  */
 ?>
-
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Side Nav -->
-	<ins class="adsbygoogle"
-	     style="display:inline-block;width:300px;height:600px"
-	     data-ad-client="ca-pub-9914565001386816"
-	     data-ad-slot="2704530888"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
 	<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 		<div id="secondary" class="widget-area" role="complementary">
 			<?php dynamic_sidebar( 'sidebar-1' ); ?>
