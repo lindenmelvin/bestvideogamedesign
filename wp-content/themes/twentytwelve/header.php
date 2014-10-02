@@ -40,15 +40,14 @@
 		</hgroup>
 
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- Main Nav -->
+		<!-- Initial Ad Unit -->
 		<ins class="adsbygoogle"
 		     style="display:inline-block;width:728px;height:90px"
 		     data-ad-client="ca-pub-9914565001386816"
-		     data-ad-slot="1227797683"></ins>
+		     data-ad-slot="9007769686"></ins>
 		<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- Main Nav -->
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<h3 class="menu-toggle"><?php _e( 'Menu', 'twentytwelve' ); ?></h3>
