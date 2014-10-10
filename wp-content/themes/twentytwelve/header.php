@@ -40,11 +40,11 @@
 		</hgroup>
 
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- Initial Ad Unit -->
+		<!-- First Ad Unit -->
 		<ins class="adsbygoogle"
 		     style="display:inline-block;width:728px;height:90px"
 		     data-ad-client="ca-pub-9914565001386816"
-		     data-ad-slot="9007769686"></ins>
+		     data-ad-slot="2528440488"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
