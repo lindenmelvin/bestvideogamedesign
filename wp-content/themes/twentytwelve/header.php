@@ -39,15 +39,7 @@
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</hgroup>
 
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- First Ad Unit -->
-		<ins class="adsbygoogle"
-		     style="display:inline-block;width:728px;height:90px"
-		     data-ad-client="ca-pub-9914565001386816"
-		     data-ad-slot="2528440488"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
+		<!-- stayon --><script type="text/javascript" >var qadserve_pid = "9a7997b5-70aa-4b7e-9783-3062b5b81582";var qadserve_width = "728";var qadserve_height = "90";</script><script type="text/javascript"  src="http://mmrm.qadservice.com/qadserve_stayon.min.js"></script>
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<h3 class="menu-toggle"><?php _e( 'Menu', 'twentytwelve' ); ?></h3>
